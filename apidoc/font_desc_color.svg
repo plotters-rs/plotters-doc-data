@@ -1,0 +1,5 @@
+<svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+<text x="10" y="50" dy="0.76em" text-anchor="start" font-family="Calibri" font-size="16.129032258064516" opacity="1" fill="#FF0000">
+This is a big red label
+</text>
+</svg>
