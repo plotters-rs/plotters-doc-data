@@ -1,0 +1,60 @@
+<svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="299" height="199" opacity="1" fill="#FFFFFF" stroke="none"/>
+<polygon opacity="0.1" fill="#000000" points="124,150 124,23 63,40 63,167 "/>
+<polyline fill="none" opacity="0.2" stroke="#000000" stroke-width="1" points="124,150 124,23 63,40 63,167 124,150 "/>
+<polyline fill="none" opacity="0.2" stroke="#000000" stroke-width="1" points="124,99 63,116 "/>
+<polyline fill="none" opacity="0.2" stroke="#000000" stroke-width="1" points="124,49 63,66 "/>
+<polyline fill="none" opacity="0.2" stroke="#000000" stroke-width="1" points="83,161 83,34 "/>
+<polygon opacity="0.1" fill="#000000" points="124,150 63,167 175,176 236,159 "/>
+<polyline fill="none" opacity="0.2" stroke="#000000" stroke-width="1" points="124,150 63,167 175,176 236,159 124,150 "/>
+<polyline fill="none" opacity="0.2" stroke="#000000" stroke-width="1" points="156,152 94,169 "/>
+<polyline fill="none" opacity="0.2" stroke="#000000" stroke-width="1" points="188,155 127,172 "/>
+<polyline fill="none" opacity="0.2" stroke="#000000" stroke-width="1" points="220,158 158,174 "/>
+<polyline fill="none" opacity="0.2" stroke="#000000" stroke-width="1" points="83,161 196,170 "/>
+<polygon opacity="0.1" fill="#000000" points="124,150 236,159 236,32 124,23 "/>
+<polyline fill="none" opacity="0.2" stroke="#000000" stroke-width="1" points="124,150 236,159 236,32 124,23 124,150 "/>
+<polyline fill="none" opacity="0.2" stroke="#000000" stroke-width="1" points="156,152 156,26 "/>
+<polyline fill="none" opacity="0.2" stroke="#000000" stroke-width="1" points="188,155 188,28 "/>
+<polyline fill="none" opacity="0.2" stroke="#000000" stroke-width="1" points="220,158 220,31 "/>
+<polyline fill="none" opacity="0.2" stroke="#000000" stroke-width="1" points="124,99 236,109 "/>
+<polyline fill="none" opacity="0.2" stroke="#000000" stroke-width="1" points="124,49 236,58 "/>
+<polyline fill="none" opacity="0.8" stroke="#000000" stroke-width="1" points="63,167 175,176 "/>
+<polyline fill="none" opacity="0.8" stroke="#000000" stroke-width="1" points="94,169 94,174 "/>
+<text x="94" y="179" dy="0.76em" text-anchor="middle" font-family="sans-serf" font-size="9.67741935483871" opacity="1" fill="#000000">
+1.0
+</text>
+<polyline fill="none" opacity="0.8" stroke="#000000" stroke-width="1" points="127,172 127,177 "/>
+<text x="127" y="182" dy="0.76em" text-anchor="middle" font-family="sans-serf" font-size="9.67741935483871" opacity="1" fill="#000000">
+2.0
+</text>
+<polyline fill="none" opacity="0.8" stroke="#000000" stroke-width="1" points="158,174 158,179 "/>
+<text x="158" y="184" dy="0.76em" text-anchor="middle" font-family="sans-serf" font-size="9.67741935483871" opacity="1" fill="#000000">
+3.0
+</text>
+<polyline fill="none" opacity="0.8" stroke="#000000" stroke-width="1" points="63,167 63,40 "/>
+<polyline fill="none" opacity="0.8" stroke="#000000" stroke-width="1" points="63,116 58,116 "/>
+<text x="53" y="116" dy="0.5ex" text-anchor="end" font-family="sans-serf" font-size="9.67741935483871" opacity="1" fill="#000000">
+1.0
+</text>
+<polyline fill="none" opacity="0.8" stroke="#000000" stroke-width="1" points="63,66 58,66 "/>
+<text x="53" y="66" dy="0.5ex" text-anchor="end" font-family="sans-serf" font-size="9.67741935483871" opacity="1" fill="#000000">
+2.0
+</text>
+<polyline fill="none" opacity="0.8" stroke="#000000" stroke-width="1" points="236,159 175,176 "/>
+<polyline fill="none" opacity="0.8" stroke="#000000" stroke-width="1" points="196,170 196,175 "/>
+<text x="196" y="180" dy="0.76em" text-anchor="middle" font-family="sans-serf" font-size="9.67741935483871" opacity="1" fill="#000000">
+1.0
+</text>
+<polygon opacity="0.2" fill="#0000FF" points="124,150 124,49 220,57 220,158 "/>
+<polyline fill="none" opacity="1" stroke="#0000FF" stroke-width="1" points="124,150 124,49 220,57 220,158 124,150 "/>
+<polygon opacity="0.2" fill="#0000FF" points="124,150 83,161 83,60 124,49 "/>
+<polyline fill="none" opacity="1" stroke="#0000FF" stroke-width="1" points="124,150 83,161 83,60 124,49 124,150 "/>
+<polygon opacity="0.2" fill="#0000FF" points="124,150 220,158 179,169 83,161 "/>
+<polyline fill="none" opacity="1" stroke="#0000FF" stroke-width="1" points="124,150 220,158 179,169 83,161 124,150 "/>
+<polygon opacity="0.2" fill="#0000FF" points="124,49 220,57 179,68 83,60 "/>
+<polyline fill="none" opacity="1" stroke="#0000FF" stroke-width="1" points="124,49 220,57 179,68 83,60 124,49 "/>
+<polygon opacity="0.2" fill="#0000FF" points="220,158 179,169 179,68 220,57 "/>
+<polyline fill="none" opacity="1" stroke="#0000FF" stroke-width="1" points="220,158 179,169 179,68 220,57 220,158 "/>
+<polygon opacity="0.2" fill="#0000FF" points="83,161 83,60 179,68 179,169 "/>
+<polyline fill="none" opacity="1" stroke="#0000FF" stroke-width="1" points="83,161 83,60 179,68 179,169 83,161 "/>
+</svg>
