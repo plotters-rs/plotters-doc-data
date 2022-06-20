@@ -162,29 +162,29 @@
 5.0
 </text>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="268,173 268,178 "/>
-<circle cx="75" cy="40" r="10" opacity="1" fill="none" stroke="#0000FF" stroke-width="1"/>
-<line opacity="1" stroke="#FF0000" stroke-width="1" x1="76" y1="41" x2="82" y2="47"/>
-<line opacity="1" stroke="#FF0000" stroke-width="1" x1="76" y1="47" x2="82" y2="41"/>
-<rect x="79" y="36" width="1" height="1" stroke="none" opacity="1" fill="#FF0000"/>
-<polygon opacity="1" fill="#FF0000" points="71,32 68,38 75,38 "/>
-<circle cx="123" cy="54" r="10" opacity="1" fill="none" stroke="#0000FF" stroke-width="1"/>
-<line opacity="1" stroke="#FF0000" stroke-width="1" x1="124" y1="55" x2="130" y2="61"/>
-<line opacity="1" stroke="#FF0000" stroke-width="1" x1="124" y1="61" x2="130" y2="55"/>
-<rect x="127" y="50" width="1" height="1" stroke="none" opacity="1" fill="#FF0000"/>
-<polygon opacity="1" fill="#FF0000" points="119,46 116,52 123,52 "/>
-<circle cx="172" cy="76" r="10" opacity="1" fill="none" stroke="#0000FF" stroke-width="1"/>
-<line opacity="1" stroke="#FF0000" stroke-width="1" x1="173" y1="77" x2="179" y2="83"/>
-<line opacity="1" stroke="#FF0000" stroke-width="1" x1="173" y1="83" x2="179" y2="77"/>
-<rect x="176" y="72" width="1" height="1" stroke="none" opacity="1" fill="#FF0000"/>
-<polygon opacity="1" fill="#FF0000" points="168,68 165,74 172,74 "/>
-<circle cx="220" cy="108" r="10" opacity="1" fill="none" stroke="#0000FF" stroke-width="1"/>
-<line opacity="1" stroke="#FF0000" stroke-width="1" x1="221" y1="109" x2="227" y2="115"/>
-<line opacity="1" stroke="#FF0000" stroke-width="1" x1="221" y1="115" x2="227" y2="109"/>
-<rect x="224" y="104" width="1" height="1" stroke="none" opacity="1" fill="#FF0000"/>
-<polygon opacity="1" fill="#FF0000" points="216,100 213,106 220,106 "/>
-<circle cx="268" cy="149" r="10" opacity="1" fill="none" stroke="#0000FF" stroke-width="1"/>
-<line opacity="1" stroke="#FF0000" stroke-width="1" x1="269" y1="150" x2="275" y2="156"/>
-<line opacity="1" stroke="#FF0000" stroke-width="1" x1="269" y1="156" x2="275" y2="150"/>
-<rect x="272" y="145" width="1" height="1" stroke="none" opacity="1" fill="#FF0000"/>
-<polygon opacity="1" fill="#FF0000" points="264,141 261,147 268,147 "/>
+<circle cx="75" cy="72" r="10" opacity="1" fill="none" stroke="#0000FF" stroke-width="1"/>
+<line opacity="1" stroke="#FF0000" stroke-width="1" x1="76" y1="73" x2="82" y2="79"/>
+<line opacity="1" stroke="#FF0000" stroke-width="1" x1="76" y1="79" x2="82" y2="73"/>
+<rect x="79" y="68" width="1" height="1" stroke="none" opacity="1" fill="#FF0000"/>
+<polygon opacity="1" fill="#FF0000" points="71,64 68,70 75,70 "/>
+<circle cx="123" cy="108" r="10" opacity="1" fill="none" stroke="#0000FF" stroke-width="1"/>
+<line opacity="1" stroke="#FF0000" stroke-width="1" x1="124" y1="109" x2="130" y2="115"/>
+<line opacity="1" stroke="#FF0000" stroke-width="1" x1="124" y1="115" x2="130" y2="109"/>
+<rect x="127" y="104" width="1" height="1" stroke="none" opacity="1" fill="#FF0000"/>
+<polygon opacity="1" fill="#FF0000" points="119,100 116,106 123,106 "/>
+<circle cx="172" cy="126" r="10" opacity="1" fill="none" stroke="#0000FF" stroke-width="1"/>
+<line opacity="1" stroke="#FF0000" stroke-width="1" x1="173" y1="127" x2="179" y2="133"/>
+<line opacity="1" stroke="#FF0000" stroke-width="1" x1="173" y1="133" x2="179" y2="127"/>
+<rect x="176" y="122" width="1" height="1" stroke="none" opacity="1" fill="#FF0000"/>
+<polygon opacity="1" fill="#FF0000" points="168,118 165,124 172,124 "/>
+<circle cx="220" cy="114" r="10" opacity="1" fill="none" stroke="#0000FF" stroke-width="1"/>
+<line opacity="1" stroke="#FF0000" stroke-width="1" x1="221" y1="115" x2="227" y2="121"/>
+<line opacity="1" stroke="#FF0000" stroke-width="1" x1="221" y1="121" x2="227" y2="115"/>
+<rect x="224" y="110" width="1" height="1" stroke="none" opacity="1" fill="#FF0000"/>
+<polygon opacity="1" fill="#FF0000" points="216,106 213,112 220,112 "/>
+<circle cx="268" cy="141" r="10" opacity="1" fill="none" stroke="#0000FF" stroke-width="1"/>
+<line opacity="1" stroke="#FF0000" stroke-width="1" x1="269" y1="142" x2="275" y2="148"/>
+<line opacity="1" stroke="#FF0000" stroke-width="1" x1="269" y1="148" x2="275" y2="142"/>
+<rect x="272" y="137" width="1" height="1" stroke="none" opacity="1" fill="#FF0000"/>
+<polygon opacity="1" fill="#FF0000" points="264,133 261,139 268,139 "/>
 </svg>
