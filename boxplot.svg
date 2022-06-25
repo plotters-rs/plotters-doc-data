@@ -64,6 +64,7 @@ Ping Boxplot
 <line opacity="1" stroke="#FFFFFF" stroke-width="1" x1="962" y1="476" x2="962" y2="30"/>
 <line opacity="1" stroke="#FFFFFF" stroke-width="1" x1="977" y1="476" x2="977" y2="30"/>
 <line opacity="1" stroke="#FFFFFF" stroke-width="1" x1="992" y1="476" x2="992" y2="30"/>
+<line opacity="1" stroke="#FFFFFF" stroke-width="1" x1="1007" y1="476" x2="1007" y2="30"/>
 <line opacity="1" stroke="#FFFFFF" stroke-width="1" x1="85" y1="364" x2="1019" y2="364"/>
 <line opacity="1" stroke="#FFFFFF" stroke-width="1" x1="85" y1="142" x2="1019" y2="142"/>
 <text x="5" y="254" dy="0.76em" text-anchor="middle" font-family="sans-serif" font-size="9.67741935483871" opacity="1" fill="#000000" transform="rotate(270, 5, 254)">
@@ -114,30 +115,30 @@ Ping, ms
 38.0
 </text>
 <polyline fill="none" opacity="1" stroke="#000000" stroke-width="1" points="947,477 947,482 "/>
-<line opacity="1" stroke="#E6194B" stroke-width="1" x1="160" y1="347" x2="160" y2="357"/>
-<line opacity="1" stroke="#E6194B" stroke-width="1" x1="160" y1="352" x2="241" y2="352"/>
-<rect x="241" y="342" width="55" height="20" opacity="1" fill="none" stroke="#E6194B"/>
-<line opacity="1" stroke="#E6194B" stroke-width="1" x1="256" y1="342" x2="256" y2="362"/>
-<line opacity="1" stroke="#E6194B" stroke-width="1" x1="296" y1="352" x2="377" y2="352"/>
-<line opacity="1" stroke="#E6194B" stroke-width="1" x1="377" y1="347" x2="377" y2="357"/>
-<line opacity="1" stroke="#E6194B" stroke-width="1" x1="181" y1="125" x2="181" y2="135"/>
-<line opacity="1" stroke="#E6194B" stroke-width="1" x1="181" y1="130" x2="226" y2="130"/>
-<rect x="226" y="120" width="30" height="20" opacity="1" fill="none" stroke="#E6194B"/>
-<line opacity="1" stroke="#E6194B" stroke-width="1" x1="238" y1="120" x2="238" y2="140"/>
-<line opacity="1" stroke="#E6194B" stroke-width="1" x1="256" y1="130" x2="301" y2="130"/>
-<line opacity="1" stroke="#E6194B" stroke-width="1" x1="301" y1="125" x2="301" y2="135"/>
-<line opacity="1" stroke="#3CB44B" stroke-width="1" x1="415" y1="371" x2="415" y2="381"/>
-<line opacity="1" stroke="#3CB44B" stroke-width="1" x1="415" y1="376" x2="564" y2="376"/>
-<rect x="564" y="366" width="100" height="20" opacity="1" fill="none" stroke="#3CB44B"/>
-<line opacity="1" stroke="#3CB44B" stroke-width="1" x1="590" y1="366" x2="590" y2="386"/>
-<line opacity="1" stroke="#3CB44B" stroke-width="1" x1="664" y1="376" x2="813" y2="376"/>
-<line opacity="1" stroke="#3CB44B" stroke-width="1" x1="813" y1="371" x2="813" y2="381"/>
-<line opacity="1" stroke="#3CB44B" stroke-width="1" x1="283" y1="149" x2="283" y2="159"/>
-<line opacity="1" stroke="#3CB44B" stroke-width="1" x1="283" y1="154" x2="530" y2="154"/>
-<rect x="530" y="144" width="166" height="20" opacity="1" fill="none" stroke="#3CB44B"/>
-<line opacity="1" stroke="#3CB44B" stroke-width="1" x1="572" y1="144" x2="572" y2="164"/>
-<line opacity="1" stroke="#3CB44B" stroke-width="1" x1="696" y1="154" x2="943" y2="154"/>
-<line opacity="1" stroke="#3CB44B" stroke-width="1" x1="943" y1="149" x2="943" y2="159"/>
+<line opacity="1" stroke="#3CB44B" stroke-width="1" x1="160" y1="371" x2="160" y2="381"/>
+<line opacity="1" stroke="#3CB44B" stroke-width="1" x1="160" y1="376" x2="241" y2="376"/>
+<rect x="241" y="366" width="55" height="20" opacity="1" fill="none" stroke="#3CB44B"/>
+<line opacity="1" stroke="#3CB44B" stroke-width="1" x1="256" y1="366" x2="256" y2="386"/>
+<line opacity="1" stroke="#3CB44B" stroke-width="1" x1="296" y1="376" x2="377" y2="376"/>
+<line opacity="1" stroke="#3CB44B" stroke-width="1" x1="377" y1="371" x2="377" y2="381"/>
+<line opacity="1" stroke="#3CB44B" stroke-width="1" x1="181" y1="149" x2="181" y2="159"/>
+<line opacity="1" stroke="#3CB44B" stroke-width="1" x1="181" y1="154" x2="226" y2="154"/>
+<rect x="226" y="144" width="30" height="20" opacity="1" fill="none" stroke="#3CB44B"/>
+<line opacity="1" stroke="#3CB44B" stroke-width="1" x1="238" y1="144" x2="238" y2="164"/>
+<line opacity="1" stroke="#3CB44B" stroke-width="1" x1="256" y1="154" x2="301" y2="154"/>
+<line opacity="1" stroke="#3CB44B" stroke-width="1" x1="301" y1="149" x2="301" y2="159"/>
+<line opacity="1" stroke="#E6194B" stroke-width="1" x1="415" y1="347" x2="415" y2="357"/>
+<line opacity="1" stroke="#E6194B" stroke-width="1" x1="415" y1="352" x2="564" y2="352"/>
+<rect x="564" y="342" width="100" height="20" opacity="1" fill="none" stroke="#E6194B"/>
+<line opacity="1" stroke="#E6194B" stroke-width="1" x1="590" y1="342" x2="590" y2="362"/>
+<line opacity="1" stroke="#E6194B" stroke-width="1" x1="664" y1="352" x2="813" y2="352"/>
+<line opacity="1" stroke="#E6194B" stroke-width="1" x1="813" y1="347" x2="813" y2="357"/>
+<line opacity="1" stroke="#E6194B" stroke-width="1" x1="283" y1="125" x2="283" y2="135"/>
+<line opacity="1" stroke="#E6194B" stroke-width="1" x1="283" y1="130" x2="530" y2="130"/>
+<rect x="530" y="120" width="166" height="20" opacity="1" fill="none" stroke="#E6194B"/>
+<line opacity="1" stroke="#E6194B" stroke-width="1" x1="572" y1="120" x2="572" y2="140"/>
+<line opacity="1" stroke="#E6194B" stroke-width="1" x1="696" y1="130" x2="943" y2="130"/>
+<line opacity="1" stroke="#E6194B" stroke-width="1" x1="943" y1="125" x2="943" y2="135"/>
 <rect x="933" y="36" width="81" height="44" opacity="1" fill="#FFFFFF" stroke="none"/>
 <rect x="933" y="36" width="81" height="44" opacity="0.5" fill="none" stroke="#000000"/>
 <text x="965" y="46" dy="0.76em" text-anchor="start" font-family="sans-serif" font-size="9.67741935483871" opacity="1" fill="#000000">
@@ -146,8 +147,8 @@ wired
 <text x="965" y="61" dy="0.76em" text-anchor="start" font-family="sans-serif" font-size="9.67741935483871" opacity="1" fill="#000000">
 wireless
 </text>
-<rect x="943" y="44" width="12" height="12" opacity="1" fill="#E6194B" stroke="none"/>
-<rect x="943" y="59" width="12" height="12" opacity="1" fill="#3CB44B" stroke="none"/>
+<rect x="943" y="44" width="12" height="12" opacity="1" fill="#3CB44B" stroke="none"/>
+<rect x="943" y="59" width="12" height="12" opacity="1" fill="#E6194B" stroke="none"/>
 <text x="258" y="522" dy="0.76em" text-anchor="middle" font-family="sans-serif" font-size="16.129032258064516" opacity="1" fill="#000000">
 Vertical Boxplot
 </text>
@@ -304,6 +305,7 @@ Vertical Boxplot
 <text x="765" y="522" dy="0.76em" text-anchor="middle" font-family="sans-serif" font-size="16.129032258064516" opacity="1" fill="#000000">
 Horizontal Boxplot
 </text>
+<line opacity="1" stroke="#FFFFFF" stroke-width="1" x1="552" y1="722" x2="552" y2="542"/>
 <line opacity="1" stroke="#FFFFFF" stroke-width="1" x1="559" y1="722" x2="559" y2="542"/>
 <line opacity="1" stroke="#FFFFFF" stroke-width="1" x1="567" y1="722" x2="567" y2="542"/>
 <line opacity="1" stroke="#FFFFFF" stroke-width="1" x1="575" y1="722" x2="575" y2="542"/>
